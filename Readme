@@ -1,0 +1,6 @@
+本目录保存与数据库适配的生态工具二进制文件
+1、patroni
+2、pg_probackup
+3、pgbackrest
+4、pglogical
+5、repmgr
